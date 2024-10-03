@@ -1,1 +1,2 @@
 # naukaterraform
+prawidlowo
